@@ -1,0 +1,2 @@
+ipdb
+git+file:///home/johnsca/juju/charms.reactive#egg=charms.reactive
